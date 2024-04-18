@@ -11,7 +11,7 @@ Implement the function of locking AK tokens and linearly releasing AK tokens to 
 - Vesting Wallet for Dev: [0x0d4C4019CC631284750448272D531e0C9F7533da](https://etherscan.io/address/0x0d4C4019CC631284750448272D531e0C9F7533da#readContract
 )
 
-- Vesting Wallet for AK DAO: - Vesting Wallet for Dev: [0x32669020c56e7995E1aeF5D45a5A8fC33022CCf6](https://etherscan.io/address/0x32669020c56e7995E1aeF5D45a5A8fC33022CCf6#readContract
+- Vesting Wallet for AK DAO:  [0x32669020c56e7995E1aeF5D45a5A8fC33022CCf6](https://etherscan.io/address/0x32669020c56e7995E1aeF5D45a5A8fC33022CCf6#readContract
 )
 
 ### At Arbitrum One (Layer 2) Network: 
