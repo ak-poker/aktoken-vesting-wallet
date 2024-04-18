@@ -18,5 +18,5 @@ Implement the function of locking AK tokens and linearly releasing AK tokens to 
 
 - AK Token: [0x5961cBc865728cb86CB9eFa293e897a81fa94b64](https://arbiscan.io/token/0x5961cBc865728cb86CB9eFa293e897a81fa94b64)
 
-- Vesting Wallet for Team DAO: [0x99B9c0b892491a9c3194D561b23901E20A0a1A21](https://etherscan.io/address/0x99B9c0b892491a9c3194D561b23901E20A0a1A21#readContract
+- Vesting Wallet for Team DAO: [0x99B9c0b892491a9c3194D561b23901E20A0a1A21](https://arbiscan.io/address/0x99B9c0b892491a9c3194D561b23901E20A0a1A21#readContract
 )
